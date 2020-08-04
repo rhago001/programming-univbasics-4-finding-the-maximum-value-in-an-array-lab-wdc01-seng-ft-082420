@@ -1,5 +1,5 @@
 def find_max_value(array)
-  return array.max(0).to_i
+  return array.max().to_i
   
   
   end

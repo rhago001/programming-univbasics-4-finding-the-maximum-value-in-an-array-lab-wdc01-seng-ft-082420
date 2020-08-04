@@ -1,5 +1,5 @@
 def find_max_value(array)
-  arry.new[1]=array.max(1)
+  arry.new[1]=array.max()
   puts arry
 
   

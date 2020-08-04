@@ -1,5 +1,6 @@
 def find_max_value(array)
-  rearray.max(1)
+  arry.new[]=array.max(1)
+  puts arry[0]
 
   
   end
